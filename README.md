@@ -1,6 +1,6 @@
-### Hi there, I'm [Alfian!](https://alfianmaulana.com) 👋
+### Hi there, I'm [Alfian](https://alfianmaulana.com)! 👋
 
-Hi, I'm Alfian Maulana, a passionate software engineer and cloud computing engineer from Indonesia.
+A passionate software engineer and cloud engineer from Indonesia.
 
 - 🔭 I’m currently working on [Segari](https://segari.id)
 - 🌱 I’m currently learning Node.js + Typescript, Spring (Java), and GCP (Cloud Computing)
