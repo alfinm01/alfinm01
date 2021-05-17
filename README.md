@@ -2,8 +2,8 @@
 
 A passionate software engineer and cloud engineer from Indonesia.
 
-- 🔭 I’m currently working on [Segari](https://segari.id)
-- 🌱 I’m currently learning Node.js + Typescript, Spring (Java), and GCP (Cloud Computing)
+- 🔭 I’m currently looking for internship or part-time opportunity
+- 🌱 I’m currently learning Node.js + Typescript and GCP (Cloud Computing)
 - 👯 I’m looking to collaborate on [Loofow](https://www.loofow.com)
 - 💬 Ask me about anything [here](https://github.com/alfinm01/alfinm01/issues)
 
