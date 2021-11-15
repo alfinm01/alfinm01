@@ -2,7 +2,7 @@
 
 A passionate software engineer and cloud engineer from Indonesia.
 
-- 🔭 I’m currently doing internship at [Shopee](https://shopee.com)
+- 🔭 I’m currently looking for a job opportunity
 - 🌱 I’m currently learning Go, Node.js + Typescript, and GCP (Cloud Computing)
 - 👯 I’m looking to collaborate on [Loofow](https://www.loofow.com)
 - 💬 Ask me about anything [here](https://github.com/alfinm01/alfinm01/issues)
